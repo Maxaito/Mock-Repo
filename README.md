@@ -1,4 +1,8 @@
 # Mock-Repo
 Repo-for Microsoft-Git-Training via #100Devs.
 
-This is a read me file.
+Hello-World
+
+My Second Repository on GitHub
+
+I love 🥘 🍵, 🍕 and 💃.
